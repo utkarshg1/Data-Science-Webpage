@@ -8,7 +8,7 @@ Website demo on : [https://utkarshg1.github.io/Data-Science-Webpage/](https://ut
 
 ## User Interface Screenshot
 
-
+![Webpage User Interface Screenshot](./UI/Webpage.png)
 
 ## Features
 
