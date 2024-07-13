@@ -2,6 +2,14 @@
 
 This project is a simple static website built with HTML, CSS, and Bootstrap 4. It serves as a landing page for "Data Science Classes," showcasing popular courses and providing essential information.
 
+## Website Link
+
+Website demo on : [https://utkarshg1.github.io/Data-Science-Webpage/](https://utkarshg1.github.io/Data-Science-Webpage/)
+
+## User Interface Screenshot
+
+
+
 ## Features
 
 - **Responsive Design**: The website is designed to be fully responsive using Bootstrap's grid system and components, ensuring compatibility across devices of all sizes.
