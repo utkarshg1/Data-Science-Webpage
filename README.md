@@ -8,7 +8,9 @@ Website demo on : [https://utkarshg1.github.io/Data-Science-Webpage/](https://ut
 
 ## User Interface Screenshot
 
-![Webpage User Interface Screenshot](./UI/Webpage.png)
+<div style="border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); padding: 20px;">
+     ![Webpage User Interface Screenshot](./UI/Webpage.png)
+</div>
 
 ## Features
 
