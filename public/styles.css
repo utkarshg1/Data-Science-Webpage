@@ -1,0 +1,44 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #343a40;
+}
+
+.navbar {
+    background-color: #343a40;
+}
+
+.navbar-brand, .nav-link {
+    color: #ffffff !important;
+}
+
+.jumbotron {
+    background: linear-gradient(135deg, #6d5bde 0%, #3a47d5 100%);
+    color: white;
+    text-align: center;
+    padding: 2rem;
+}
+
+.section-title {
+    margin-top: 2rem;
+    text-align: center;
+    animation: fadeIn 2s ease;
+}
+
+.card {
+    margin: 1rem;
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
